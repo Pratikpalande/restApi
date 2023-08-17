@@ -1,0 +1,6 @@
+npm install -g json-server 
+//installing json server 
+
+//creating json file 
+
+json-server --watch cb.json 

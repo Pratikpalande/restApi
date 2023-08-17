@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello this is a new title",
+      "author": "Pratik .P"
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "name": "Pratik",
+      "email": "pratik@"
+    },
+    {
+      "id": 3,
+      "name": "ratik",
+      "email": "ratik@"
+    },
+    {
+      "id": 4,
+      "name": "Pratikkk",
+      "email": "kratik@"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Pratikkk",
+      "email": "pratik@"
+    },
+    {
+      "id": 7,
+      "name": "rratikkk",
+      "email": "rratik@"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
